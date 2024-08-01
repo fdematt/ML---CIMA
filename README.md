@@ -1,4 +1,4 @@
-# Repositorio de Data Challenges
+# Repositorio
 
 Bienvenidos al repositorio de Data Challenges del equipo [Nombre por definir]. Este repositorio es privado y solo puede ser usado por los miembros del equipo. A continuación, se detallan las reglas básicas para su uso.
 
